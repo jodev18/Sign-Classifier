@@ -4,7 +4,7 @@
 
 
 ## Overview
-
+A fork of https://github.com/rafiuddinkhan/Custom-Image-Classification-Android
 
 Custom Image Classification to continuously classify whatever it sees from the android device's back camera.
 Inference is performed using the TensorFlow Lite Java API. The demo app
